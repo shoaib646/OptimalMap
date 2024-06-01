@@ -165,5 +165,5 @@ srsly==2.4.8
 stack-data==0.6.3
 statsmodels==0.14.0
 sympy==1.12
-streamlit==2.19.0
+streamlit==1.19.0
 tensorflow==2.14.0
